@@ -10,6 +10,6 @@ The command for the exam to deploy in is bash -c "$(curl https://grademe.fr)"
 | 0️⃣ | [repeat_alpha](https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl0/repeat_alpha) | ✅ |
 | 0️⃣ | [rev_print](https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl0/rev_print) | ✅ |
 | 0️⃣ | [ulstr](https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl0/ulstr) | ✅ |
-| 1️⃣ |  |  |
+| 1️⃣ | [print_bits](https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl1/print_bits) | ✅ |
 | 2️⃣ |  |  |
 | 3️⃣ |  |  |
