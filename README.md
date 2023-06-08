@@ -21,3 +21,4 @@ The command for the exam to deploy in is bash -c "$(curl https://grademe.fr)"
 | 2️⃣ | [search_and_replace.c](https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl3/search_and_replace.c) | ✅ |
 ||
 | 3️⃣ | [fprime](https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl3/fprime) | ✅ |
+| 3️⃣ | [itoa](https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl3/itoa) | ✅ |
