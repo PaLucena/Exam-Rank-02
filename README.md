@@ -13,7 +13,7 @@ The command for the exam to deploy in is bash -c "$(curl https://grademe.fr)"
 | 0️⃣ | [rotone](https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl0/rotone) | ✅ |
 ||
 | 1️⃣ | [print_bits](https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl1/print_bits) | ✅ |
-| 1️⃣ | [print_bits](https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl1/strdup) | ✅ |
+| 1️⃣ | [strdup](https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl1/strdup) | ✅ |
 ||
 | 2️⃣ | [ft_rrange](https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl3/fprime) | ✅ |
 ||
