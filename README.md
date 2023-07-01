@@ -38,9 +38,11 @@ The command for the exam to deploy in is bash -c "$(curl https://grademe.fr)"
     <td align="center"> <a href="https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl0/first_word">first_word</td>
     <td align="center">✅</td>
   </tr>
+</table>
 
 
-  <h3 align="center">Level 1:</h3>
+
+<h3 align="center">Level 1:</h3>
 <table align="center">
   <tr>
     <td align="center" width="200"><b>Exercise</b></td>
@@ -66,9 +68,10 @@ The command for the exam to deploy in is bash -c "$(curl https://grademe.fr)"
     <td align="center"> <a href="https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl1/last_word">last_word</td>
     <td align="center">✅</td>
   </tr>
+</table>
 
 
-  <h3 align="center">Level 2:</h3>
+<h3 align="center">Level 2:</h3>
 <table align="center">
   <tr>
     <td align="center" width="200"><b>Exercise</b></td>
@@ -82,8 +85,10 @@ The command for the exam to deploy in is bash -c "$(curl https://grademe.fr)"
     <td align="center"> <a href="https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl2/search_and_replace">search_and_replace</td>
     <td align="center">✅</td>
   </tr>
+</table>
 
-  <h3 align="center">Level 2:</h3>
+
+<h3 align="center">Level 3:</h3>
 <table align="center">
   <tr>
     <td align="center" width="200"><b>Exercise</b></td>
@@ -97,3 +102,4 @@ The command for the exam to deploy in is bash -c "$(curl https://grademe.fr)"
     <td align="center"> <a href="https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl3/itoa">itoa</td>
     <td align="center">✅</td>
   </tr>
+</table>
