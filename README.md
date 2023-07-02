@@ -3,22 +3,106 @@ These are the exercises I've done as preparation for the first exam  of 42 commo
 
 The command for the exam to deploy in is bash -c "$(curl https://grademe.fr)"
 
-## 
 
-| Level| Exercise | Status |
-| --- | --- | --- |
-| 0️⃣ | [repeat_alpha](https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl0/repeat_alpha) | ✅ |
-| 0️⃣ | [rev_print](https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl0/rev_print) | ✅ |
-| 0️⃣ | [ulstr](https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl0/ulstr) | ✅ |
-| 0️⃣ | [rotone](https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl0/rotone) | ✅ |
-| 0️⃣ | [search_and_replace](https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl0/search_and_replace) | ✅ |
-||
-| 1️⃣ | [print_bits](https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl1/print_bits) | ✅ |
-| 1️⃣ | [strdup](https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl1/strdup) | ✅ |
-| 1️⃣ | [camel_to_snake.c](https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl1/camel_to_snake.c) | ✅ |
-||
-| 2️⃣ | [ft_rrange](https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl3/fprime) | ✅ |
-| 2️⃣ | [search_and_replace.c](https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl3/search_and_replace.c) | ✅ |
-||
-| 3️⃣ | [fprime](https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl3/fprime) | ✅ |
-| 3️⃣ | [itoa](https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl3/itoa) | ✅ |
+<h3 align="center">Level 0:</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="200"><b>Exercise</b></td>
+    <td align="center" width="50"><b>Status</b></td>
+  </tr>
+  <tr>
+    <td align="center"> <a href="https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl0/repeat_alpha">repeat_alpha</td>
+    <td align="center">✅</td>
+  </tr>
+  <tr>
+    <td align="center"> <a href="https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl0/rev_print">rev_print</td>
+    <td align="center">✅</td>
+  </tr>
+  <tr>
+    <td align="center"> <a href="https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl0/ulstr">ulstr</td>
+    <td align="center">✅</td>
+  </tr>
+  <tr>
+    <td align="center"> <a href="https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl0/rotone">rotone</td>
+    <td align="center">✅</td>
+  </tr>
+  <tr>
+    <td align="center"> <a href="https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl0/search_and_replace">search_and_replace</td>
+    <td align="center">✅</td>
+  </tr>
+  <tr>
+    <td align="center"> <a href="https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl0/rot_13">rot_13</td>
+    <td align="center">✅</td>
+  </tr>
+  <tr>
+    <td align="center"> <a href="https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl0/first_word">first_word</td>
+    <td align="center">✅</td>
+  </tr>
+</table>
+
+
+
+<h3 align="center">Level 1:</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="200"><b>Exercise</b></td>
+    <td align="center" width="50"><b>Status</b></td>
+  </tr>
+  <tr>
+    <td align="center"> <a href="https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl1/print_bits">print_bits</td>
+    <td align="center">✅</td>
+  </tr>
+  <tr>
+    <td align="center"> <a href="https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl1/strdup">strdup</td>
+    <td align="center">✅</td>
+  </tr>
+  <tr>
+    <td align="center"> <a href="https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl1/camel_to_snake">camel_to_snake</td>
+    <td align="center">✅</td>
+  </tr>
+  <tr>
+    <td align="center"> <a href="https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl1/last_word">last_word</td>
+    <td align="center">✅</td>
+  </tr>
+  <tr>
+    <td align="center"> <a href="https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl1/last_word">last_word</td>
+    <td align="center">✅</td>
+  </tr>
+    <td align="center"> <a href="https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl1/inter">inter</td>
+    <td align="center">...</td>
+  </tr>
+</table>
+
+
+<h3 align="center">Level 2:</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="200"><b>Exercise</b></td>
+    <td align="center" width="50"><b>Status</b></td>
+  </tr>
+  <tr>
+    <td align="center"> <a href="https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl2/ft_rrange">ft_rrange</td>
+    <td align="center">✅</td>
+  </tr>
+  <tr>
+    <td align="center"> <a href="https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl2/search_and_replace">search_and_replace</td>
+    <td align="center">✅</td>
+  </tr>
+</table>
+
+
+<h3 align="center">Level 3:</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="200"><b>Exercise</b></td>
+    <td align="center" width="50"><b>Status</b></td>
+  </tr>
+  <tr>
+    <td align="center"> <a href="https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl3/fprime">fprime</td>
+    <td align="center">✅</td>
+  </tr>
+  <tr>
+    <td align="center"> <a href="https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl3/itoa">itoa</td>
+    <td align="center">✅</td>
+  </tr>
+</table>
