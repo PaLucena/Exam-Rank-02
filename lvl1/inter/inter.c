@@ -3,7 +3,7 @@
 int	check_s1(char *s, int c)
 {
 	int	i = 0;
-	while (i > c)
+	while (i < c)
 	{
 		if (s[i] == s[c])
 			return (0);
