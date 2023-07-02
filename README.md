@@ -38,6 +38,10 @@ The command for the exam to deploy in is `bash -c "$(curl https://grademe.fr)"`
     <td align="center"> <a href="https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl0/first_word">first_word</td>
     <td align="center">✅</td>
   </tr>
+  <tr>
+    <td align="center"> <a href="https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl0/ft_strlen">ft_strlen</td>
+    <td align="center">✅</td>
+  </tr>
 </table>
 
 
@@ -69,6 +73,10 @@ The command for the exam to deploy in is `bash -c "$(curl https://grademe.fr)"`
     <td align="center">✅</td>
   </tr>
     <td align="center"> <a href="https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl1/inter">inter</td>
+    <td align="center">✅</td>
+  </tr>
+  </tr>
+    <td align="center"> <a href="https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl1/snake_to_camel">snake_to_camel</td>
     <td align="center">✅</td>
   </tr>
 </table>
