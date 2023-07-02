@@ -69,7 +69,7 @@ The command for the exam to deploy in is `bash -c "$(curl https://grademe.fr)"`
     <td align="center">✅</td>
   </tr>
     <td align="center"> <a href="https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl1/inter">inter</td>
-    <td align="center">...</td>
+    <td align="center">✅</td>
   </tr>
 </table>
 
