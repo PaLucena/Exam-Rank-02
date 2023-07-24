@@ -113,4 +113,8 @@ The command for the exam to deploy in is `bash -c "$(curl https://grademe.fr)"`
     <td align="center"> <a href="https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl3/itoa">itoa</td>
     <td align="center">✅</td>
   </tr>
+  <tr>
+    <td align="center"> <a href="https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl3/ft_split">ft_split</td>
+    <td align="center">✅</td>
+  </tr>
 </table>
