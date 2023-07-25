@@ -42,6 +42,10 @@ The command for the exam to deploy in is `bash -c "$(curl https://grademe.fr)"`
     <td align="center"> <a href="https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl0/ft_strlen">ft_strlen</td>
     <td align="center">✅</td>
   </tr>
+  <tr>
+    <td align="center"> <a href="https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl0/ft_swap">ft_swap</td>
+    <td align="center">✅</td>
+  </tr>
 </table>
 
 
@@ -96,6 +100,18 @@ The command for the exam to deploy in is `bash -c "$(curl https://grademe.fr)"`
     <td align="center"> <a href="https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl2/search_and_replace">search_and_replace</td>
     <td align="center">✅</td>
   </tr>
+  <tr>
+    <td align="center"> <a href="https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl2/epur_str">epur_str</td>
+    <td align="center">✅</td>
+  </tr>
+  <tr>
+    <td align="center"> <a href="https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl2/str_capitalizer">str_capitalizer</td>
+    <td align="center">✅</td>
+  </tr>
+  <tr>
+    <td align="center"> <a href="https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl2/tab_mult">tab_mult</td>
+    <td align="center">✅</td>
+  </tr>
 </table>
 
 
@@ -116,5 +132,13 @@ The command for the exam to deploy in is `bash -c "$(curl https://grademe.fr)"`
   <tr>
     <td align="center"> <a href="https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl3/ft_split">ft_split</td>
     <td align="center">✅</td>
+  </tr>
+  <tr>
+    <td align="center"> <a href="https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl3/rostring">rostring</td>
+    <td align="center">✅</td>
+  </tr>
+  <tr>
+    <td align="center"> <a href="https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl3/rev_wstr">rev_wstr</td>
+    <td align="center">❌</td>
   </tr>
 </table>
