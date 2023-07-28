@@ -141,4 +141,8 @@ The command for the exam to deploy in is `bash -c "$(curl https://grademe.fr)"`
     <td align="center"> <a href="https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl3/rev_wstr">rev_wstr</td>
     <td align="center">❌</td>
   </tr>
+  <tr>
+    <td align="center"> <a href="https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl3/sort_list">sort_list</td>
+    <td align="center">✅</td>
+  </tr>
 </table>
