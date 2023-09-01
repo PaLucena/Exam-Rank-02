@@ -81,9 +81,6 @@ The command for the exam to deploy in is `bash -c "$(curl https://grademe.fr)"`
     <td align="center">✅</td>
   </tr>
   <tr>
-    <td align="center"> <a href="https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl1/last_word">last_word</td>
-    <td align="center">✅</td>
-  </tr>
     <td align="center"> <a href="https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl1/inter">inter</td>
     <td align="center">✅</td>
   </tr>
@@ -91,15 +88,15 @@ The command for the exam to deploy in is `bash -c "$(curl https://grademe.fr)"`
     <td align="center"> <a href="https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl1/snake_to_camel">snake_to_camel</td>
     <td align="center">✅</td>
   </tr>
-  </tr>
+  <tr>
     <td align="center"> <a href="https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl1/do_op">do_op</td>
     <td align="center">✅</td>
   </tr>
-  </tr>
+  <tr>
     <td align="center"> <a href="https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl1/is_power_of_2">is_power_of_2</td>
     <td align="center">✅</td>
   </tr>
-  </tr>
+  <tr>
     <td align="center"> <a href="https://github.com/PaLucena/Exam-Rank-02/tree/main/lvl1/ft_strcmp">ft_strcmp</td>
     <td align="center">✅</td>
   </tr>
